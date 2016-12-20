@@ -13,6 +13,6 @@ Script d'analyse de texte
 
 ## Si des problemes persistent
 
-Faite une copie du message d'erreur et envoyez les mois en pull request.
+Faite une copie du message d'erreur et envoyez les mois en message dans la categorie 'Issue' plus haut.
 
 # Enjoy !
